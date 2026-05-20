@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="What2Wear/What2Wear.Shared/What2Wear.Shared.csproj" />
+  <Project Path="What2Wear/What2Wear.Web.Client/What2Wear.Web.Client.csproj" />
+  <Project Path="What2Wear/What2Wear.Web/What2Wear.Web.csproj" />
+  <Project Path="What2Wear/What2Wear/What2Wear.csproj" />
+</Solution>
